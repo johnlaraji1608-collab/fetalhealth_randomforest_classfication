@@ -77,7 +77,7 @@ Random Forest effectively handles complex medical data
 Helps in distinguishing between fetal health conditions
 ▶️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/fetal-health-classification.git
+git clone https://github.com/johnlaraji1608-collab/fetalhealth_randomforest_classfication/edit/main/README.md
 Navigate to the project:
 cd fetal-health-classification
 Install dependencies:
